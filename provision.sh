@@ -24,3 +24,5 @@ if ! type microk8s.status > /dev/null; then
   sudo snap alias microk8s.kubectl kubectl
   sudo snap alias microk8s.docker docker
 fi
+
+microk8s.enable dns dashboard ingress
