@@ -2,9 +2,9 @@
 
 Welcome to the "Kubernetes: from DevOps practices to the Cloud-Native stack" setup repo. This workshop is organized by [SIGHUP](https://sighup.io) and [Avanscoperta](https://www.avanscoperta.it). If you want to know more about the workshop [here you can find full abstract and detailed program](https://www.avanscoperta.it/it/training/kubernetes-from-devops-practices-to-the-cloud-native-stack/) and future programmer dates.
 
-### About [SIGHUP](https://sighup.io)
+### About SIGHUP
 
-We are a software and open source company specialized on infrastructural automation for public and private cloud. Our mission is to engineer, deliver and maintain battle tested automated infrastructures based on Kubernetes and the Cloud Native stack.
+[SIGHUP](https://sighup.io) is a software and open source company specialized on infrastructural automation for public and private cloud. Our mission is to engineer, deliver and maintain battle tested automated infrastructures based on Kubernetes and the Cloud Native stack.
 
 You can contact us by email at [hello@sighup.io](mailto:hello@sighup.io)
 
@@ -51,5 +51,6 @@ Right before your workshop, make sure to pull any change to this repository and 
 
 #### LICENCE
 
-This material is under copyright from SIGHUP s.r.l.
-You are free to use this repository for personal use. Commercial use is forbidden unless authorized by written permission.
+This material is authored and copyrighted from [SIGHUP s.r.l.](https://sighup.io)
+
+It is forbidden to reproduce, copy and redistribute partially on entirely the material inside this repository for commercial use. You are free to use this repository for personal learning purposes.
