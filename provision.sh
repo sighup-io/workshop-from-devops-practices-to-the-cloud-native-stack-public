@@ -25,4 +25,5 @@ if ! type microk8s.status > /dev/null; then
   sudo snap alias microk8s.docker docker
 fi
 
+microk8s.status --wait-ready
 microk8s.enable dns dashboard ingress
