@@ -45,6 +45,9 @@ You will also need to setup a few different software pieces. We have bundled the
 You should be good to go!
 If you have any issue, we highly recommend get in touch by email at [training@sighup.io](mailto:training@sighup.io).
 
+#### Tooling
+If you want to know a bit more about the tools we will use and how to start interacting with them, [check the tooling page](TOOLING.md).
+
 ## Check again before the workshop
 
 Right before your workshop, make sure to pull any change to this repository and run `vagrant up && vagrant provision`. This will apply last minute changes to the workshop material.
