@@ -27,3 +27,8 @@ fi
 
 microk8s.status --wait-ready
 microk8s.enable dns dashboard ingress
+
+# Pulling required images
+docker pull sighup/kubeprimer-web
+docker pull sighup/kubeprimer-backend
+docker pull mongo:3.7.3
