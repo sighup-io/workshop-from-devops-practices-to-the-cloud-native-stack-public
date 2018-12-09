@@ -25,6 +25,8 @@ Vagrant.configure("2") do |config|
           instance.vm.box = configuration[:os]
           instance.vm.hostname = configuration[:hostname]
           instance.vm.network 'private_network', ip: configuration[:ip]
+          instance.vm.synced_folder "workspace/", "/workspace"
+
   
           # VirtualBox
           instance.vm.provider 'virtualbox' do |vb|
