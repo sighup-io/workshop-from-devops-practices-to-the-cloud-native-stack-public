@@ -29,9 +29,13 @@ Make sure to clone this repo.
 
 You should have an hypervisor installed on your machine and it should be compatible with `Vagrant`. All major OS (Mac, Linux, Windows) should be supported as well free (Virtualbox) and supported (VMWare/Parallels) virtualization solutions.
 
-If you are not sure where to start, make sure to install [Virtualbox](https://www.virtualbox.org/).
+If you are not sure where to start, install [Virtualbox](https://www.virtualbox.org/). At the time of writing, latest stable release is `Virtualbox 5.2.22`.
 
 Make sure to have the API Key and API Secret at hand the day of the workshop.
+
+##### Achtung!
+
+If virtualbox is returning `VERR_CFGM_NOT_ENOUGH_SPACE`, simply rename with a shorter name.
 
 ### Vagrant Machine
 
