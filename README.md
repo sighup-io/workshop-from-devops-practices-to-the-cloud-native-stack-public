@@ -15,13 +15,13 @@ You can contact us by email at [hello@sighup.io](mailto:hello@sighup.io)
 
 Each participant should bring his/her own laptop (Mac or Linux recommended, Windows is supported but expect to tweak around settings), 8GB of RAM recommended
 
-#### Cloud Account
+#### Cloud Provider Account
 
 An active account with a Cloud Provider (AWS, GCP, Azure, DigitalOcean, Scaleway). Your account should be able to create, destory and play around with object storage, compute and networking resources. 
 
 If your employer does not provide an account with a cloud provider (or in case you risk to destroy your actual production environment), you can get an account with GCP or Azure, both these providers have free credits that will allow you to follow the workshop without paying for cloud resources.
 
-Make sure to have API Key and API Secret for your reference cloud provider at hand the day of the workshop.
+Make sure to have access to a Cloud provider of choice (we recommend AWS, GCP  or Azure) either via `API KEY` and `API SECRET` (AWS) or via service account/CLI (GCP, Azure).
 
 #### Clone this repo
 
