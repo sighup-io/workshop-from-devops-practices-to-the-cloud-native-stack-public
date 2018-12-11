@@ -30,6 +30,9 @@ Vagrant.configure("2") do |config|
   
           # VirtualBox
           instance.vm.provider 'virtualbox' do |vb|
+          # solve https://github.com/hashicorp/vagrant/issues/9524
+           vb.name = configuration[:hostname] + "-vm"
+
           # Boot in headless mode
             vb.gui = false
   
