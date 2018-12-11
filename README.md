@@ -21,6 +21,8 @@ An active account with a Cloud Provider (AWS, GCP, Azure, DigitalOcean, Scaleway
 
 If your employer does not provide an account with a cloud provider (or in case you risk to destroy your actual production environment), you can get an account with GCP or Azure, both these providers have free credits that will allow you to follow the workshop without paying for cloud resources.
 
+Make sure to have API Key and API Secret for your reference cloud provider at hand the day of the workshop.
+
 #### Clone this repo
 
 Make sure to clone this repo.
@@ -30,8 +32,6 @@ Make sure to clone this repo.
 You should have an hypervisor installed on your machine and it should be compatible with `Vagrant`. All major OS (Mac, Linux, Windows) should be supported as well free (Virtualbox) and supported (VMWare/Parallels) virtualization solutions.
 
 If you are not sure where to start, install [Virtualbox](https://www.virtualbox.org/). At the time of writing, latest stable release is `Virtualbox 5.2.22`.
-
-Make sure to have the API Key and API Secret at hand the day of the workshop.
 
 ##### Achtung!
 
