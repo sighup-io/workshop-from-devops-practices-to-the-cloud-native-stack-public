@@ -35,7 +35,7 @@ Make sure to have the API Key and API Secret at hand the day of the workshop.
 
 ##### Achtung!
 
-If virtualbox is returning `VERR_CFGM_NOT_ENOUGH_SPACE`, simply rename with a shorter name.
+If virtualbox is returning `VERR_CFGM_NOT_ENOUGH_SPACE`, simply rename the repo with a shorter name.
 
 ### Vagrant Machine
 
