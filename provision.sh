@@ -26,7 +26,7 @@ if ! type microk8s.status > /dev/null; then
 fi
 
 microk8s.status --wait-ready
-microk8s.enable dns dashboard ingress
+microk8s.enable dns dashboard ingress storage
 
 # Pulling required images
 docker pull sighup/powerapp-frontend
